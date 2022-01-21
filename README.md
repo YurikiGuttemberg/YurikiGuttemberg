@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YurikiGuttemberg
 - 👀 I’m interested in dev web full stack
-- 🌱 I’m currently learning HTML5, CSS, JS, JQUERY, BOOTSTRAP, REACT, FIREBASE, NODEJS...
+- 🌱 I’m currently learning HTML5, CSS, JAVA, SPRINGBOOT...
 - 💞️ I’m looking to collaborate with technology companies
 - 📫 How to reach me on Instagram: yuriki.guttemberg
 
