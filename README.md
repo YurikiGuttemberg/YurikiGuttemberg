@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YurikiGuttemberg
 - 👀 I’m interested in dev web backend
-- 🌱 I’m currently learning JAVA, SPRINGBOOT...
+- 🌱 I’m currently learning JAVA, SPRINGBOOT, ANGULAR
 - 💞️ I’m looking to collaborate with technology companies
 - 📫 How to reach me on Instagram: yuriki.guttemberg
 
